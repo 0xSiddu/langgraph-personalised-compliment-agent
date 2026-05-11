@@ -200,6 +200,9 @@ compliment_node
 
 ---
 
+<img width="1750" height="543" alt="image" src="https://github.com/user-attachments/assets/380d04b5-d21c-4e98-a23f-0810bb33e5e3" />
+
+
 ## ▶️ Invoking the Workflow
 
 ```python
